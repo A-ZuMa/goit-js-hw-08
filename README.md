@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=vb9LErOJmmg
 
 https://www.youtube.com/watch?v=H95Lgj6HvP8
 
+# FSON 88 нд 18:00-21:00 Мосальов
+
+https://www.youtube.com/watch?v=mTswnUR3BfA
+
 # Parcel template
 
 Этот проект был создан при помощи Parcel. Для знакомства и настройки
