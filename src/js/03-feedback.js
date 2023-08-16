@@ -23,6 +23,7 @@ function chkMessage(evt) {
 
 function putUsrData(evt) {
   evt.preventDefault();
+  console.log(data);
   data = {};
   localStorage.setItem(form_state, JSON.stringify(data));
   form.reset();
